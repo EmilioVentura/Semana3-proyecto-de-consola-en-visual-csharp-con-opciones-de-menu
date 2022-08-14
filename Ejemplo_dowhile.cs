@@ -8,5 +8,9 @@ namespace Semana_tres
 {
     class Ejemplo_dowhile
     {
+        public static void estructura_dowhile()
+        {
+            System.Console.WriteLine("dowhile externo");
+        }
     }
 }

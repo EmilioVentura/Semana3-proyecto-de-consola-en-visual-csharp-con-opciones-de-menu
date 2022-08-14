@@ -8,5 +8,9 @@ namespace Semana_tres
 {
     class Ejemplo_if
     {
+        public static void estructura_if()
+        {
+            System.Console.WriteLine("if externo");
+        }
     }
 }
